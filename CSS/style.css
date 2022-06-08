@@ -8,3 +8,54 @@ body {
     height: 100%;
     margin: 0%;
 }
+
+img {
+    max-height: 20vh;
+}
+
+
+/* 
+
+> Clases de uso estandar.
+
+*/
+
+.div1-absoluto {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.div1-relativo {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.espaciado-5px {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+}
+
+.espaciado-10px {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+}
+
+.espaciado-15px {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+}
+
+.espaciado-20px {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+}
